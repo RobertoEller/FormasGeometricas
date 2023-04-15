@@ -1,6 +1,8 @@
 ### Formas Geometricas
 
-Projeto desenvolvido utilizando o c# como backend e uma inteface gráfica construida com o Windowns Forms. A Aplicação consiste em um programa de calculo da área e perimetro de diversas figura geométricas 
+Projeto desenvolvido utilizando o C# como Back-End e uma inteface gráfica construida com o Windowns Forms. 
+
+A aplicação consiste em um programa de cálculo da área e perímetro de diversas figuras geométricas 
 
 ## 🛠️ Tecnologias
 
